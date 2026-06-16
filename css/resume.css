@@ -1,0 +1,10 @@
+.pdf-container {
+  width: min(90vw, 850px);
+  margin: 0 auto;
+}
+
+.pdf-container object {
+  width: 100%;
+  aspect-ratio: 8.5 / 11;
+  height: auto;
+}
